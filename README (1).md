@@ -42,6 +42,6 @@ https://www.kaggle.com/datasets/algozee/climate-cahnge
 
 ## Author
 
-**Kevin Ng'ang'a**
+**Michael Mbugua**
 
 This repository serves as a personal learning portfolio and will continue to evolve as I learn new concepts and apply them to this project.
